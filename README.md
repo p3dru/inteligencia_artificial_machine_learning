@@ -8,6 +8,7 @@ Cada repositório é um capítulo do curso, dentro de cada repositório há:
 
 #### Sumário:
  - [Algoritmos de busca](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Algoritmos%20de%20busca)
+ - [Algoritmos de otimização](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Algoritmos%20de%20otimização)
 
 ##
 
@@ -20,3 +21,4 @@ Each repository is a chapter of the course, within each repository there are:
 
 #### Summary:
  - [Search algorithms](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Algoritmos%20de%20busca)
+ - [Optimization algorithms](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Algoritmos%20de%20otimização)
