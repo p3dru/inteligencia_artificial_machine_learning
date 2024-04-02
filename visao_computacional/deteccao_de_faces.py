@@ -12,7 +12,6 @@ essa importação é necessária apeans caso estejamos utilizando com colab, é 
 modificação que o google fez para que o open cv rode normalmente
 -> from google.colab.patches import cv2_imshow
 cv2_imshow(imagem)
-
 '''
 #exibe a imagem
 cv2.imshow('Imagem Original', imagem)
