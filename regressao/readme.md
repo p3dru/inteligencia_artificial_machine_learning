@@ -106,7 +106,7 @@ _**Logistic Regression:**_ Method used to model the probability of an event occu
 [Implementing Logistic Regression](https://github.com/p3dru/inteligencia_artificial_machine_learning/blob/main/regressao/regressao_logistica.py)
 
 _**Ridge Regression:**_ It is a regularization technique that is used to prevent overfitting in linear regression models. It adds an L2 penalty term to the model, which is the sum of the squares of the model coefficients. This results in a model with smaller coefficients, which can help prevent the model from overfitting the training data and improve generalization to unseen data.
-[useful link for study](https://edisciplinas.usp.br/pluginfile.php/8074854/mod_resource/content/1/Regressão%20Ridge.pdf) <br>
+[useful link for study](https://edisciplinas.usp.br/pluginfile.php/8074854/mod_resource/content/1/Regressão%20Ridge.pdf)
 
 [Implementing Ridge Regression](https://github.com/p3dru/inteligencia_artificial_machine_learning/blob/main/regressao/regressao_ridge.py)
 
