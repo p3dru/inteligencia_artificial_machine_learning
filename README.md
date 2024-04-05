@@ -4,7 +4,7 @@
 Cada repositório é um capítulo do curso, dentro de cada repositório há:
   - Códigos comentados (em português)
   - Uma resolução da atividade de cada módulo
-  > Caso o módulo possua resolução em código
+    > Caso o módulo possua resolução em código
   - Um readme.md para resumir os tópicos estudados
 
 #### Sumário:
@@ -22,7 +22,7 @@ Cada repositório é um capítulo do curso, dentro de cada repositório há:
 Each repository is a chapter of the course, within each repository there are:
  - Commented codes (in Portuguese)
  - A resolution of the activity of each module
- > If the module has code resolution
+   > If the module has code resolution
  - A readme.md to summarize topics studied
 
 #### Summary:
