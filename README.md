@@ -13,6 +13,7 @@ Cada repositório é um capítulo do curso, dentro de cada repositório há:
  - [Fuzzy](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/fuzzy)
  - [Classificação](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/classificacao)
  - [Regressão](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/regressao)
+ - [Agrupamento](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/agrupamento)
  - [Visão Computacional](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/visao_computacional)
 
 ##
@@ -31,4 +32,5 @@ Each repository is a chapter of the course, within each repository there are:
  - [Fuzzy](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/fuzzy)
  - [Classification](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/classificacao)
  - [Regression](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/regressao)
+ - [Clustering](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/agrupamento)
  - [Computer Vision](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/visao_computacional)
