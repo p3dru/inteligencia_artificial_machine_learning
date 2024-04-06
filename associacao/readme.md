@@ -51,3 +51,56 @@ Como funciona:
 
 [Implementação FP-Growth](https://github.com/p3dru/inteligencia_artificial_machine_learning/blob/main/associacao/fp_growth.py)
 
+#
+## Chapter 7: Association
+
+### Concept:
+It is a data mining technique that seeks to find relationships (that may be of interest) between different items in a data set. These relationships can be used to make recommendations, identify purchasing patterns, analyze data, among others. It is particularly useful in marketing applications where the goal is to discover which items are frequently purchased together and in recommendation systems.
+
+### Most used techniques:
+#### Apriori:
+Uses a depth-first search algorithm to find sets of items that are frequently purchased together. It is based on the idea that if a set of items is frequently purchased together, then any subset of that set should also be frequently purchased together.<br>
+How it works:
+ - Candidate generation: Initially, the algorithm generates one-item sets (often called "1-itemsets"). It then generates sets of two items that are frequently purchased together (2-itemsets), and so on.
+ - Support Check: For each set generated, the algorithm checks whether the set is frequently purchased together, that is, whether the set frequency is greater than or equal to a pre-defined support threshold.
+ - Frequent Set Generation: If a set is frequently purchased together, it is added to the frequent set list. The algorithm then generates larger sized sets based on the frequent sets found so far.
+ - Iteration: The process of generating candidates, checking support, and generating frequent sets is repeated until no new frequent sets are found.
+
+> Advantages:
+> - Simplicity and ease of implementation.
+> - Being able to find all frequent sets in a data set.
+>
+> Disadvantages:
+> - Can be time and memory inefficient, especially for large datasets, due to generating all sets of size k before generating sets of size k+1.
+
+[Apriori Implementation](https://github.com/p3dru/inteligencia_artificial_machine_learning/blob/main/associacao/apriori.py)
+
+#### Eclat:
+It is based on the idea that if a set of items is frequently purchased together, then any subset of that set should also be frequently purchased together.<br>
+How it works:
+ - Candidate Generation: Just like Apriori, Eclat starts by generating sets of one item. It then generates sets of two items that are frequently purchased together, and so on.
+ - Support Check: For each set generated, the algorithm checks whether the set is frequently purchased together, using the same support logic as Apriori.
+ - Frequent Set Generation: If a set is frequently purchased together, it is added to the frequent set list. The algorithm then generates larger sized sets based on the frequent sets found so far.
+ - Iteration: The process of generating candidates, checking support, and generating frequent sets is repeated until no new frequent sets are found.
+
+> Advantages:
+> - More efficient in terms of execution time and memory usage than Apriori
+>
+> Disadvantages:
+> - Like Apriori, it can be inefficient for very large data sets
+
+[Eclat Implementation](https://github.com/p3dru/inteligencia_artificial_machine_learning/blob/main/associacao/eclat.py)
+
+#### FP-Growth:
+It is an alternative to the first two presented. It is more efficient in terms of memory and execution time, as it does not require generating all itemsets of size 'k' before generating sets of size 'k+1'.
+How it works:
+ - FP-Growth Tree Construction: The algorithm builds a data structure called "FP-Growth tree" from the transaction data. The FP-Growth tree is a compact representation of data that allows efficient generation of frequent sets.
+ - Generation of Frequent Sets: From the FP-Growth tree, the algorithm generates frequent sets. This is done efficiently as it does not require generating all sets of size k before generating sets of size k+1.
+
+> Advantages:
+> - More efficient in terms of execution time and memory usage than Apriori and Eclat.<br>
+>
+> Disadvantages:
+> - The construction of the FP-Growth tree can be complex to implement
+
+[FP-Growth Implementation](https://github.com/p3dru/inteligencia_artificial_machine_learning/blob/main/associacao/fp_growth.py)
