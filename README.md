@@ -8,8 +8,8 @@ Cada repositório é um capítulo do curso, dentro de cada repositório há:
   - Um readme.md para resumir os tópicos estudados
 
 #### Sumário:
- - [Algoritmos de busca](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Algoritmos%20de%20busca)
- - [Algoritmos de otimização](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Algoritmos%20de%20otimização)
+ - [Algoritmos de Busca](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Algoritmos%20de%20busca)
+ - [Algoritmos de Otimização](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Algoritmos%20de%20otimização)
  - [Fuzzy](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/fuzzy)
  - [Classificação](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/classificacao)
  - [Regressão](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/regressao)
@@ -17,6 +17,7 @@ Cada repositório é um capítulo do curso, dentro de cada repositório há:
  - [Associação](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/associacao)
  - [Visão Computacional](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/visao_computacional)
  - [Tópicos Complementares](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/topicos_complementares)
+ - [Aprendizagem por Reforço](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/aprendizagem_por_reforco)
 
 ##
 
@@ -38,3 +39,4 @@ Each repository is a chapter of the course, within each repository there are:
  - [Association rule learning](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/associacao)
  - [Computer Vision](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/visao_computacional)
  - [Supplementary Topics](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/topicos_complementares)
+ - [Reinforcement learning](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/aprendizagem_por_reforco)
