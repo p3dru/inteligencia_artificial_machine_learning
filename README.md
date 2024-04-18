@@ -15,9 +15,10 @@ Cada repositório é um capítulo do curso, dentro de cada repositório há:
  - [Regressão](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/regressao)
  - [Agrupamento](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/agrupamento)
  - [Associação](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/associacao)
- - [Visão Computacional](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/visao_computacional)
  - [Tópicos Complementares](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/topicos_complementares)
  - [Aprendizagem por Reforço](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/aprendizagem_por_reforco)
+ - [Redes Neurais e Deep Learning](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Redes%20Neurais%20e%20Deep%20Learning)
+ - [Visão Computacional](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/visao_computacional)
 
 ##
 
@@ -37,6 +38,7 @@ Each repository is a chapter of the course, within each repository there are:
  - [Regression](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/regressao)
  - [Clustering](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/agrupamento)
  - [Association rule learning](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/associacao)
- - [Computer Vision](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/visao_computacional)
  - [Supplementary Topics](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/topicos_complementares)
  - [Reinforcement learning](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/aprendizagem_por_reforco)
+ - [Neural Networks and Deep Learning](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Redes%20Neurais%20e%20Deep%20Learning)
+ - [Computer Vision](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/visao_computacional)
