@@ -1,4 +1,4 @@
-## Capítulo 13: Visão Computacional
+## Capítulo 12: Visão Computacional
 
 ### Conceitos:
 _**Classificador Cascade:**_ Também conhecido como Haar Cascade. É um algoritmo de detecção que utiliza máscaras Haar* para caracterizar objetos por meio de variações de luminosidade, sobretudo em bordas. Funciona da seguinte forma:
@@ -59,7 +59,7 @@ Criar um algoritmo que seja capaz de identificar corpos humanos (vivos ok? Não 
 
 #
 
-## Chapter 13: Computer Vision
+## Chapter 12: Computer Vision
 
 ### Concepts:
 _**Cascade Classifier:**_ Also known as Haar Cascade. It is a detection algorithm that uses Haar* masks to characterize objects through variations in luminosity, especially at edges. It works as follows:
