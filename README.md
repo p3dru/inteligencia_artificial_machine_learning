@@ -18,6 +18,7 @@ Cada repositório é um capítulo do curso, dentro de cada repositório há:
  - [Tópicos Complementares](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/topicos_complementares)
  - [Aprendizagem por Reforço](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/aprendizagem_por_reforco)
  - [Redes Neurais e Deep Learning](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Redes%20Neurais%20e%20Deep%20Learning)
+ - [Processamento de Linguagem Natural](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Processamento%20de%20Linguagem%20Natural)
  - [Visão Computacional](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/visao_computacional)
 
 ##
@@ -41,4 +42,5 @@ Each repository is a chapter of the course, within each repository there are:
  - [Supplementary Topics](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/topicos_complementares)
  - [Reinforcement learning](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/aprendizagem_por_reforco)
  - [Neural Networks and Deep Learning](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Redes%20Neurais%20e%20Deep%20Learning)
+ - [Natural Language Processing](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Processamento%20de%20Linguagem%20Natural)
  - [Computer Vision](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/visao_computacional)
