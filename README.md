@@ -45,4 +45,4 @@ Each repository is a chapter of the course, within each repository there are:
  - [Neural Networks and Deep Learning](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Redes%20Neurais%20e%20Deep%20Learning#chapter-10-neural-networks-and-deep-learning)
  - [Natural Language Processing](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Processamento%20de%20Linguagem%20Natural)
  - [Computer Vision](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/visao_computacional#chapter-12-computer-vision)
- - [Multi-Agent Systems]()
+ - [Multi-Agent Systems](https://github.com/p3dru/inteligencia_artificial_machine_learning/tree/main/Sistemas%20Multiagente#chapter-13-multiagent-systems)
